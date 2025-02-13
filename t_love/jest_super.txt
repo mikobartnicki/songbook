@@ -1,8 +1,10 @@
 T.Love
 "Jest super"
 
-    e-moll, C-dur, a-moll, D-dur                    e C a D     | 2x
-    e-moll, C-dur, a-moll, D-dur                    e C a D     |
+    e-moll, C-dur, a-moll, D-dur                    e C a D
+    e-moll, C-dur, a-moll, D-dur                    e C a D
+    e-moll, C-dur, a-moll, D-dur                    e C a D
+    e-moll, C-dur, a-moll, D-dur                    e C a D
 
 Popatrz na wspaniałe autostrady                     e C a D
 Na drogi, na których nie znajdziesz wybojów         e C a D
