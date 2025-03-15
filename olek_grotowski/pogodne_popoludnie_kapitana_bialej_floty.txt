@@ -14,7 +14,7 @@ Podziwiają go turystki                      F G C
     Transatlantyki na oceanach              C G         | 2x
     A krążowniki w rejsach ćwiczebnych      a e         |
     Każdy z nich musi mieć kapitana         F C         |
-    Nasz kapitan też jest potrzebny         F G C       |
+    Nasz kapitan też jest potrzebny         F G (C)     |
 
 Odskoczyły drzwi tawerny                    C G
 Szmer uznania przebiegł salon               a e
@@ -29,7 +29,7 @@ I bursztyny i węgorze                       F G C
     Transatlantyki na oceanach              C G         | 2x
     A krążowniki w rejsach ćwiczebnych      a e         |
     Każdy z nich musi mieć kapitana         F C         |
-    Nasz kapitan też jest potrzebny         F G C       |
+    Nasz kapitan też jest potrzebny         F G (C)     |
 
 Piwo w pianie, Bałtyk w pianie              C G
 Gdańsk za oknem kolorowy                    a e
@@ -44,4 +44,4 @@ Ma dziś wolne popołudnie                    F G C
     Transatlantyki na oceanach              C G         | 2x
     A krążowniki w rejsach ćwiczebnych      a e         |
     Każdy z nich musi mieć kapitana         F C         |
-    Nasz kapitan też jest potrzebny         F G C       |
+    Nasz kapitan też jest potrzebny         F G (C)     |
