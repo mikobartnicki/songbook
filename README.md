@@ -27,6 +27,9 @@ In song lyrics side notes, major chords are written in uppercase letters, and
 minor chords in lowercase letters. Semitones are always in sharp notation, never
 flat (i.e. F#, not Gb).
 
+If a capo is suggested, the indicated position matches my vocal range and might
+not suit yours. Feel free to change it to fit your own voice.
+
 ## Author
 
 Unless explicitly stated otherwise, I am not the author of the songs presented
