@@ -4,13 +4,13 @@ A collection of song lyrics with accompanying guitar chords in a printer-friendl
 
 ## Key notation
 
-I use the German/Polish key notation, where the note B is denoted as H, and B is used to represent A# (or Bb). See the following:
+I use the German key notation, where the note B is denoted as H, and B is used to represent A# (or Bb). See the following:
 
     English
     C  C#  D  D#  E  F  F#  G  G#  A  A#  B  C
        Db     Eb        Gb     Ab     Bb
 
-    Polish
+    German
     C  C#  D  D#  E  F  F#  G  G#  A  A#  H  C
        Db     Eb        Gb     Ab     B
 
